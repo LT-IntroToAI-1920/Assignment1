@@ -6,9 +6,9 @@ geometry: margin=1in
 
 ## Introduction
 
-This assigment gives some introduction to Python syntax and some practice with examples. Additionally it introduces `assert`ions, the closest analog to Racket's `check-expects` that we'll be using this quarter.
+This assigment gives some introduction to Python syntax and some practice with examples. Additionally it introduces `assert`ions, which we will be using for unit testing.
 
-In the provided file `a1.py` implement the functions listed below (each function below has a corresponding stub in the provided `a1.py` file) and write additional `assert` tests to verify your solutions are correct. Once you're satisfied with your code submit the `a1.py` file to Canvas.
+In the provided file `a1.py` implement the functions listed below (each function below has a corresponding stub in the provided `a1.py` file) and write additional `assert` tests to verify your solutions are correct. Once you're satisfied with your code submit the `a1.py` file to GitHub Classroom.
 
 ## Problems
 
